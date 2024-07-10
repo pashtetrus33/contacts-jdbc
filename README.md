@@ -28,5 +28,5 @@
 
 ```sh
 git clone https://github.com/pashtetrus33/contacts-jdbc.git
-cd contacts-app
+cd contacts-jdbc
 
